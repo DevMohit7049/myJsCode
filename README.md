@@ -1,0 +1,2 @@
+# myJsCode
+basic js code 
